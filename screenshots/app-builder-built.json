@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Time Cut",
+      "hasCanvas": false,
+      "bodyTextLen": 1452,
+      "bodyTextHash": "5326ce984dc5d07e3875c898b52ee1a974bfbe73090137b4ca5b2f3b1589fead",
+      "bodyTextPrefix": "A WORKSHOP The Time Cut Never shuffle time. Train on the earlier",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Time Cut",
+      "hasCanvas": false,
+      "bodyTextLen": 1255,
+      "bodyTextHash": "b0d770a2a51dc91551ffa66ca49f26f84b7dc7c57bbea6ab2007566c5071b53a",
+      "bodyTextPrefix": "A WORKSHOP The Time Cut 01 Chapters 01 · ORDER IS THE INFORMATIO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
